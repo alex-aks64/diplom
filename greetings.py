@@ -13,7 +13,7 @@ from registr import *
 
 
 
-api="7703728043:AAGjr1S5qUA3m45S2XJBwKQgmcsHRvPQrrQ"
+api="770372804"
 bot=Bot(token=api)
 dp=Dispatcher(bot,storage= MemoryStorage())
 
